@@ -25,4 +25,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
+## Math
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
