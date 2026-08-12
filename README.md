@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushmahawar/Leet-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushmahawar/Leet-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushmahawar/Leet-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
