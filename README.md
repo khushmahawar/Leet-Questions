@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khushmahawar/Leet-Questions/tree/master/0011-container-with-most-water) |
 | [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushmahawar/Leet-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushmahawar/Leet-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/khushmahawar/Leet-Questions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/khushmahawar/Leet-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
