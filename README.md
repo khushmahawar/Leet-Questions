@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/khushmahawar/Leet-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/khushmahawar/Leet-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0257-binary-tree-paths) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushmahawar/Leet-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
 |  |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushmahawar/Leet-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
