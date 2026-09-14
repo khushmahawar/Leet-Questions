@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/khushmahawar/Leet-Questions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/khushmahawar/Leet-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/khushmahawar/Leet-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/khushmahawar/Leet-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0090-subsets-ii) |
 | [0994-rotting-oranges](https://github.com/khushmahawar/Leet-Questions/tree/master/0994-rotting-oranges) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/khushmahawar/Leet-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/khushmahawar/Leet-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/khushmahawar/Leet-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/khushmahawar/Leet-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0257-binary-tree-paths) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/khushmahawar/Leet-Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
