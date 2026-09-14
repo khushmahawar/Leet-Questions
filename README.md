@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushmahawar/Leet-Questions/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/khushmahawar/Leet-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/khushmahawar/Leet-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/khushmahawar/Leet-Questions/tree/master/0051-n-queens) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/khushmahawar/Leet-Questions/tree/master/0037-sudoku-solver) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushmahawar/Leet-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushmahawar/Leet-Questions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/khushmahawar/Leet-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/khushmahawar/Leet-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/khushmahawar/Leet-Questions/tree/master/0051-n-queens) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/khushmahawar/Leet-Questions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/khushmahawar/Leet-Questions/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/khushmahawar/Leet-Questions/tree/master/0994-rotting-oranges) |
 ## Bracket Sequences
@@ -179,5 +183,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/khushmahawar/Leet-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/khushmahawar/Leet-Questions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/khushmahawar/Leet-Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
