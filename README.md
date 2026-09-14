@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/khushmahawar/Leet-Questions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/khushmahawar/Leet-Questions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/khushmahawar/Leet-Questions/tree/master/0112-path-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/khushmahawar/Leet-Questions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/khushmahawar/Leet-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/khushmahawar/Leet-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0090-subsets-ii) |
 | [0994-rotting-oranges](https://github.com/khushmahawar/Leet-Questions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushmahawar/Leet-Questions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/khushmahawar/Leet-Questions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0257-binary-tree-paths) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushmahawar/Leet-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/khushmahawar/Leet-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/khushmahawar/Leet-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/khushmahawar/Leet-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/khushmahawar/Leet-Questions/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/khushmahawar/Leet-Questions/tree/master/0994-rotting-oranges) |
 ## Bracket Sequences
 |  |
