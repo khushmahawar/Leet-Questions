@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/khushmahawar/Leet-Questions/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/khushmahawar/Leet-Questions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
+| [2140-solving-questions-with-brainpower](https://github.com/khushmahawar/Leet-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushmahawar/Leet-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushmahawar/Leet-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/khushmahawar/Leet-Questions/tree/master/0740-delete-and-earn) |
 | [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/khushmahawar/Leet-Questions/tree/master/1510-stone-game-iv) |
+| [2140-solving-questions-with-brainpower](https://github.com/khushmahawar/Leet-Questions/tree/master/2140-solving-questions-with-brainpower) |
 ## Minimax
 |  |
 | ------- |
