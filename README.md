@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/khushmahawar/Leet-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/khushmahawar/Leet-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/khushmahawar/Leet-Questions/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/khushmahawar/Leet-Questions/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/khushmahawar/Leet-Questions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushmahawar/Leet-Questions/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/khushmahawar/Leet-Questions/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/khushmahawar/Leet-Questions/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/khushmahawar/Leet-Questions/tree/master/0740-delete-and-earn) |
 | [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/khushmahawar/Leet-Questions/tree/master/1510-stone-game-iv) |
