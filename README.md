@@ -67,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0062-unique-paths) |
 | [1140-stone-game-ii](https://github.com/khushmahawar/Leet-Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/khushmahawar/Leet-Questions/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushmahawar/Leet-Questions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/khushmahawar/Leet-Questions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/khushmahawar/Leet-Questions/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/khushmahawar/Leet-Questions/tree/master/0740-delete-and-earn) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/khushmahawar/Leet-Questions/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/khushmahawar/Leet-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
